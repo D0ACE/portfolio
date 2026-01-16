@@ -6,7 +6,7 @@ import {
     FaPython, FaDatabase, FaChartBar, FaGitAlt,
     FaBrain, FaCode, FaLaptopCode
 } from 'react-icons/fa';
-import { SiPandas, SiNumpy, SiScikitlearn, SiJupyter, SiStreamlit, SiPowerbi } from 'react-icons/si';
+import { SiPandas, SiNumpy, SiScikitlearn, SiJupyter, SiStreamlit } from 'react-icons/si';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -40,7 +40,7 @@ const Skills = () => {
                 { name: 'SQL', icon: FaDatabase, level: 85 },
                 { name: 'Pandas', icon: SiPandas, level: 88 },
                 { name: 'NumPy', icon: SiNumpy, level: 85 },
-                { name: 'Power BI', icon: SiPowerbi, level: 80 },
+                { name: 'Power BI', icon: FaChartBar, level: 80 },
             ],
         },
         {
