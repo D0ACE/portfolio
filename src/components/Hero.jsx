@@ -28,10 +28,10 @@ const Hero = () => {
     }, []);
 
     const socialLinks = [
-        { icon: FaGithub, url: 'https://github.com/USERNAME', label: 'GitHub' },
-        { icon: FaLinkedin, url: 'https://www.linkedin.com/in/USERNAME', label: 'LinkedIn' },
-        { icon: FaEnvelope, url: 'mailto:yourname@email.com', label: 'Email' },
-        { icon: FaPhone, url: 'tel:+91XXXXXXXXXX', label: 'Phone' },
+        { icon: FaGithub, url: 'https://github.com/D0ACE', label: 'GitHub' },
+        { icon: FaLinkedin, url: 'https://www.linkedin.com/in/abhishekace', label: 'LinkedIn' },
+        { icon: FaEnvelope, url: 'mailto:rrabhishek000@gmail.com', label: 'Email' },
+        { icon: FaPhone, url: 'tel:+918431426683', label: 'Phone' },
     ];
 
     return (

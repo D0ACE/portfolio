@@ -30,7 +30,7 @@ const Education = () => {
         {
             degree: 'Master of Computer Applications (MCA)',
             // specialization: '',
-            institution: 'R V INSTITUTION OF TECHNOLOGY AND MANAGEMENT',
+            institution: 'RVITM',
             location: 'Banglore, KARNATAKA',
             year: '2024 - 2026',
             // grade: 'CGPA: 8.5/10',
@@ -42,8 +42,8 @@ const Education = () => {
         },
         {
             degree: 'Bachelor of Science (BSc)',
-            specialization: 'Physics, Mathematics, and Computer Science',
-            institution: 'GOVT FIRST GRADE COLLAGE',
+            specialization: 'P M Cs',
+            institution: 'GFGC',
             location: 'Hirekerur, KARNATAKA',
             year: '2021 - 2024',
             // grade: 'CGPA: 8.2/10',
