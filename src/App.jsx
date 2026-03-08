@@ -99,8 +99,10 @@ function Navbar() {
         }`}>
             <div className="container-custom flex items-center justify-between px-6 md:px-12 lg:px-24">
                 {/* logo */}
-                <a href="#home" className="font-display font-bold text-xl tracking-tight">
-                    <span className="text-white">Ab</span><span className="text-primary neon-text-soft">hishek</span>
+                <a href="#home" className="font-display font-bold tracking-tight leading-none">
+                    <span className="text-white text-lg md:text-xl">Abhishek</span>
+                    <span className="hidden sm:inline text-primary neon-text-soft text-lg md:text-xl"> Ramamurthy Rattihalli</span>
+                    <span className="sm:hidden text-primary neon-text-soft text-lg"> R. R.</span>
                 </a>
 
                 {/* desktop links */}
